@@ -1,7 +1,7 @@
 metadata    :name        => "diff",
             :description => "Compare local file and remote file.",
             :author      => "TAKAHASHI Masaki",
-            :license     => "MIT License",
+            :license     => "Apache2 License",
             :version     => "0.1",
             :url         => "http://github.com/tarhashi/mcollective-plugins/",
             :timeout     => 60
