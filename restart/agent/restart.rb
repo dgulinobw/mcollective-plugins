@@ -1,5 +1,4 @@
 require 'rubygems'
-require 'open3'
 
 module MCollective
   module Agent
